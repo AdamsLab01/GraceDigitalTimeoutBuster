@@ -10,8 +10,6 @@ For more information see - http://adambyers.com/2013/11/mailbox-notifier/ or pin
 Requires Nick Gammon's LED flasher library - http://www.gammon.com.au/forum/?id=11411
 Requires Ken Shirriff's IR Remote library - http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html
 
-All code (except external libraries and third party code) is published under the MIT License.
-
 **********************************************************************************************************************/
 
 /*
